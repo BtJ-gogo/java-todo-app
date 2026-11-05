@@ -1,4 +1,4 @@
-# TodoApp (Spring Boot 学習用)
+# TodoApp 
 
 Spring Boot を学習するために作成したシンプルな Todo API です。
 
